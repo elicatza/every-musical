@@ -4,16 +4,24 @@ This repo will have tools to download all musicals. I would also like to store
 my ratings here. Maybe I'll learn htmx, so that I can make an amazing tier
 list.
 
-I hope this will serve a useful tool for finding new musicals. To ensure so,
+I hope this will serve as useful tool for finding new musicals. To ensure so,
 I'll include favorite song and lyric for each musical as well as a short
 written review.
 
 ## Roadmap
-1. [X] Download a list of all broadway musicals.
-2. [X] Create a tool that adds musicals to json file containing title, release date, and links.
-3. [X] Create a tool to downloads recordings.
-4. [ ] Listening to them.
-6. [ ] Write review and rate them
+1. [X] Download a list of all Broadway musicals.
+2. [X] Create a tool that adds musicals to JSON file containing title, release date, and links
+3. [X] Create a tool to downloads recordings
+4. [ ] Listen, rate and review
+   - [ ] 1940s
+   - [ ] 1950s
+   - [ ] 1960s
+   - [ ] 1970s
+   - [ ] 1980s
+   - [ ] 1990s
+   - [ ] 2000s
+   - [ ] 2010s
+   - [ ] 2020s
 7. [ ] Create a tier list website
 8. [ ] Make it easy to scrape / Rest API
 8. [ ] Add a musical dle game
@@ -126,82 +134,99 @@ These are all book musicals with original music as categorized by Dan Dietz in
 - [ ] Gentlemen Prefer Blondes  X
 
 ## 50s (71 musicals)
-Happy as Larry
-Arms and the Girl
-Great to Be Alive!
-The Liar
-Call Me Madam
-Guys and Dolls (1950)
-Out of This World
-Jotham Valley
-The King and I (1951)
-Make a Wish
-A Tree Grows in Brooklyn
-Flahooley
-Courtin’ Time
-Seventeen
-Top Banana
-Paint Your Wagon
-Three Wishes for Jamie
-Wish You Were Here
-Buttrio Square
-Hazel Flagg
-Maggie
-Wonderful Town (1953)
-Can-Can
-Me and Juliet
-Carnival in Flanders
-The Girl in Pink Tights
-By the Beautiful Sea
-The Pajama Game (1954)
-Peter Pan (1954 adaptation; music by Mark “Moose” Charlap and Jule Styne)
-Fanny
-Hit the Trail
-House of Flowers
-Plain and Fancy
-Silk Stockings
-Ankles Aweigh
-Damn Yankees
-Seventh Heaven
-The Vamp
-Pipe Dream
-My Fair Lady
-Mr. Wonderful
-The Most Happy Fella (1956)
-Shangri-La
-Li’l Abner
-Bells Are Ringing
-Candide
-Happy Hunting
-Shinbone Alley
-New Girl in Town
-West Side Story
-Copper and Brass
-Jamaica
-Rumple
-The Music Man
-The Body Beautiful
-Oh Captain!
-Portofino
-Goldilocks
-Flower Drum Song
-Whoop-Up
-Redhead
-Juno
-First Impressions
-Destry Rides Again
-The Nervous Set
-Gypsy
-Happy Town
-Take Me Along
-The Sound of Music
-Fiorello!
-Saratoga
+- [ ] Happy as Larry
+- [ ] Arms and the Girl
+- [ ] Great to Be Alive!
+- [ ] The Liar
+- [ ] Call Me Madam
+- [ ] Guys and Dolls (1950)
+- [ ] Out of This World
+- [ ] Jotham Valley
+- [ ] The King and I (1951)
+- [ ] Make a Wish
+- [ ] A Tree Grows in Brooklyn
+- [ ] Flahooley
+- [ ] Courtin’ Time
+- [ ] Seventeen
+- [ ] Top Banana
+- [ ] Paint Your Wagon
+- [ ] Three Wishes for Jamie
+- [ ] Wish You Were Here
+- [ ] Buttrio Square
+- [ ] Hazel Flagg
+- [ ] Maggie
+- [ ] Wonderful Town (1953)
+- [ ] Can-Can
+- [ ] Me and Juliet
+- [ ] Carnival in Flanders
+- [ ] The Girl in Pink Tights
+- [ ] By the Beautiful Sea
+- [ ] The Pajama Game (1954)
+- [ ] Peter Pan (1954 adaptation; music by Mark “Moose” Charlap and Jule Styne)
+- [ ] Fanny
+- [ ] Hit the Trail
+- [ ] House of Flowers
+- [ ] Plain and Fancy
+- [ ] Silk Stockings
+- [ ] Ankles Aweigh
+- [ ] Damn Yankees
+- [ ] Seventh Heaven
+- [ ] The Vamp
+- [ ] Pipe Dream
+- [ ] My Fair Lady
+- [ ] Mr. Wonderful
+- [ ] The Most Happy Fella (1956)
+- [ ] Shangri-La
+- [ ] Li’l Abner
+- [ ] Bells Are Ringing
+- [ ] Candide
+- [ ] Happy Hunting
+- [ ] Shinbone Alley
+- [ ] New Girl in Town
+- [ ] West Side Story
+- [ ] Copper and Brass
+- [ ] Jamaica
+- [ ] Rumple
+- [ ] The Music Man
+- [ ] The Body Beautiful
+- [ ] Oh Captain!
+- [ ] Portofino
+- [ ] Goldilocks
+- [ ] Flower Drum Song
+- [ ] Whoop-Up
+- [ ] Redhead
+- [ ] Juno
+- [ ] First Impressions
+- [ ] Destry Rides Again
+- [ ] The Nervous Set
+- [ ] Gypsy
+- [ ] Happy Town
+- [ ] Take Me Along
+- [ ] The Sound of Music
+- [ ] Fiorello!
+- [ ] Saratoga
 
 ## 60s
+TODO
+
 ## 70s
+TODO
+
+## 70s
+TODO
+
 ## 80s
+TODO
+
 ## 90s
+TODO
+
 ## 00s
+TODO
+
 ## 10s
+TODO
+
 ## 20s
+TODO
+
