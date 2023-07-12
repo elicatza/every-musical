@@ -3,11 +3,13 @@
     "title": "Oklahoma!",
     "opening": 1943,
     "ibdb": "https://www.ibdb.com/broadway-production/oklahoma-1285",
+    "music": "Richard Rodgers",
+    "lyrics": "Oscar Hammerstein II",
+    "book": "Oscar Hammerstein II",
     "wiki": "https://en.wikipedia.org/wiki/Oklahoma!",
     "recording": "https://www.youtube.com/playlist?list=PLaHwSBnw447ppQxcpzr8y3XFBHTkn_spG",
-    "cover": "https://imagedelivery.net/wFNeMS2KvHLp01mKMPOJtQ/c062ae8b-d3d2-4913-5a71-32033c0ea900/hero",
+    "cover": "https://assets.playbill.com/playbill-covers/81cf864e652eea15e870dcff7b291c86-oklahoma-playbill-1943-03-web.jpg",
     "opinions": {
-      "favlyric": "Oh, what a beautiful mornin'. Oh, what a beautiful day. I've got a beautiful feelin'. Everything's going my way.",
       "favsong": "Surrey With a Fringe on Top",
       "review": null,
       "rating": "A"
@@ -17,11 +19,13 @@
     "title": "Early to Bed",
     "opening": 1943,
     "ibdb": "https://www.ibdb.com/broadway-production/early-to-bed-1296",
+    "music": "Thomas Waller",
+    "lyrics": "George Marion, Jr.",
+    "book": "George Marion, Jr.",
     "wiki": null,
     "recording": null,
-    "cover": "https://imagedelivery.net/wFNeMS2KvHLp01mKMPOJtQ/a002c4be-d3c9-44ca-d0b8-edfc595fd300/hero",
+    "cover": "https://assets.playbill.com/playbill-covers/7479c88e636801c14b00771b609b01ae-Early-to-Bed-Playbill-06-43.jpg",
     "opinions": {
-      "favlyric": null,
       "favsong": null,
       "review": null,
       "rating": "L"
@@ -30,12 +34,14 @@
   {
     "title": "My Dear Public",
     "opening": 1943,
-    "ibdb": "https://www.ibdb.com/broadway-production/my-dear-public-1331",
+    "ibdb": "https://assets.playbill.com/playbill-covers/1267b64d3e5b7756bebca7883273d28d-My-Dear-Public-Playbill-09-43.jpg",
+    "music": "Irving Caesar, Samuel M. Lerner and Gerald Marks",
+    "lyrics": "Irving Caesar, Samuel M. Lerner and Gerald Marks",
+    "book": "Irving Caesar and Charles Gottesfeld",
     "wiki": null,
     "recording": null,
-    "cover": null,
+    "cover": "https://assets.playbill.com/playbill-covers/1267b64d3e5b7756bebca7883273d28d-My-Dear-Public-Playbill-09-43.jpg",
     "opinions": {
-      "favlyric": null,
       "favsong": null,
       "review": null,
       "rating": "L"
@@ -45,11 +51,13 @@
     "title": "Hairpin Harmony",
     "opening": 1943,
     "ibdb": "https://www.ibdb.com/broadway-production/hairpin-harmony-1339",
+    "music": "Harold Orlob",
+    "lyrics": "Harold Orlob",
+    "book": "Harold Orlob",
     "wiki": null,
     "recording": null,
-    "cover": null,
+    "cover": "https://assets.playbill.com/playbill-covers/54680e4a6cfc1ce4b176cbde84a95658-National-Theatre-Standard-Cover-1940-45.jpg",
     "opinions": {
-      "favlyric": null,
       "favsong": null,
       "review": null,
       "rating": "L"
@@ -58,12 +66,14 @@
   {
     "title": "One Touch of Venus",
     "opening": 1943,
-    "ibdb": "https://www.ibdb.com/broadway-production/hairpin-harmony-1339",
+    "ibdb": "https://www.ibdb.com/broadway-production/one-touch-of-venus-1341",
+    "music": "Kurt Weill",
+    "lyrics": "Ogden Nash",
+    "book": "S. J. Perelman and Ogden Nash",
     "wiki": "https://en.wikipedia.org/wiki/One_Touch_of_Venus",
     "recording": "https://www.youtube.com/playlist?list=OLAK5uy_kedPycvDKEbxEVSnTb6TrnZQaZciOeqVw",
-    "cover": "https://imagedelivery.net/wFNeMS2KvHLp01mKMPOJtQ/328eec95-d2f3-4e89-5395-e4ae88778100/hero",
+    "cover": "https://assets.playbill.com/playbill-covers/e061e7a373f84f802af927de3ad17bfd-One-Touch-of-Venus-Playbill-01-44.jpg",
     "opinions": {
-      "favlyric": "I'm a woman with a mission. I must discover the key to his ignition.",
       "favsong": "I'm A Stranger Here Myself",
       "review": "Pretty forgettable. I enjoy some of the lyrcs and Mary Martin sounds amazing as always. The book has relativly interesting satrie, but it's not worth a full musical. The music is pretty, but sadly forgettable.",
       "rating": "C"
@@ -73,27 +83,29 @@
     "title": "What's up",
     "opening": 1943,
     "ibdb": "https://www.ibdb.com/broadway-production/whats-up-1355",
-    "ovtr": "https://ovrtur.com/production/2888946",
+    "music": "Frederick Loewe",
+    "lyrics": "Alan Jay Lerner",
+    "book": "Alan Jay Lerner and Arthur Pierson",
     "wiki": "https://en.wikipedia.org/wiki/What%27s_Up%3F_(musical)",
     "recording": null,
-    "cover": "https://imagedelivery.net/wFNeMS2KvHLp01mKMPOJtQ/c062ae8b-d3d2-4913-5a71-32033c0ea900/hero",
+    "cover": "https://assets.playbill.com/playbill-covers/1beddec36ec1bd9a771e3984eede4f52-national-theatre-standard-cover-1940-45-web.jpg",
     "opinions": {
-      "favlyric": null,
       "favsong": null,
       "review": null,
-      "rating": null
+      "rating": "L"
     }
   },
   {
     "title": "Jackpot",
     "opening": 1944,
     "ibdb": "https://www.ibdb.com/broadway-production/jackpot-1379",
-    "ovtr": "https://ovrtur.com/show/119962",
+    "music": "Vernon Duke",
+    "lyrics": "Howard Dietz",
+    "book": "Guy Bolton, Sidney Sheldon and Ben Roberts",
     "wiki": "https://en.wikipedia.org/wiki/Jackpot_(musical)",
     "recording": null,
-    "cover": null,
+    "cover": "https://assets.playbill.com/playbill-covers/1ffb2b358d6edf00b09aac2715a5e99e-Jackpot-Playbill-02-44.jpg",
     "opinions": {
-      "favlyric": null,
       "favsong": null,
       "review": null,
       "rating": "L"
@@ -103,12 +115,13 @@
     "title": "Mexican Hayride",
     "opening": 1944,
     "ibdb": "https://www.ibdb.com/broadway-production/mexican-hayride-1386",
-    "ovtr": "https://ovrtur.com/show/120316",
+    "music": "Cole Porter",
+    "lyrics": "Cole Porter",
+    "book": "Herbert Fields and Dorothy Fields",
     "wiki": "https://en.wikipedia.org/wiki/Mexican_Hayride_(musical)",
     "recording": "https://www.youtube.com/playlist?list=OLAK5uy_kCzVktGzRqkm5h65RUz3VrXVpZyM0V2wk",
-    "cover": "https://imagedelivery.net/wFNeMS2KvHLp01mKMPOJtQ/eb00d16d-2052-4688-9fce-c950821f8f00/hero",
+    "cover": "https://assets.playbill.com/playbill-covers/624ae8fa06894b3d7a0eb29ca4b630ed-Mexican-Hayride-Playbill-02-44.jpg",
     "opinions": {
-      "favlyric": "I love you. Hums the April breeze.",
       "favsong": "I Love You",
       "review": "Cole porter music is fun, but I was unable to understand the book. It was basically chaos ensues. None of the songs sticks. Neither do the lyrics",
       "rating": "D"
@@ -118,12 +131,13 @@
     "title": "Follow the Girls",
     "opening": 1944,
     "ibdb": "https://www.ibdb.com/broadway-production/follow-the-girls-1410",
-    "ovtr": "https://ovrtur.com/show/119557",
+    "music": "Dan Shapiro, Milton Pascal and Phil Charig",
+    "lyrics": "Dan Shapiro, Milton Pascal and Phil Charig",
+    "book": "Guy Bolton and Eddie Davis",
     "wiki": "https://en.wikipedia.org/wiki/Follow_the_Girls",
     "recording": null,
-    "cover": "https://imagedelivery.net/wFNeMS2KvHLp01mKMPOJtQ/7c359388-ff6e-43be-63c5-50fffd0c5f00/hero",
+    "cover": "https://assets.playbill.com/playbill-covers/abd49f1bdd7add810d685d6a00536368-Follow-the-Girl-07-44.jpg",
     "opinions": {
-      "favlyric": null,
       "favsong": null,
       "review": null,
       "rating": "L"
@@ -133,12 +147,13 @@
     "title": "Allah be Praised!",
     "opening": 1944,
     "ibdb": "https://www.ibdb.com/broadway-production/allah-be-praised-1415",
-    "ovtr": "https://ovrtur.com/show/118848",
+    "music": "Don Walker and Baldwin Bergersen",
+    "lyrics": "George Marion, Jr.",
+    "book": "George Marion, Jr.",
     "wiki": null,
     "recording": null,
-    "cover": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._cUvPCtnB7K2APY_9Sv5MwHaKw%26pid%3DApi&f=1&ipt=e518aab1239e0334cbb13018ad9af2d1f44713bf5dfe5d866354cbc516bd9b76&ipo=images",
+    "cover": "https://assets.playbill.com/site/pb.Listing.Placeholder.BROADWAY.V4.jpg",
     "opinions": {
-      "favlyric": null,
       "favsong": null,
       "review": null,
       "rating": "L"
@@ -148,27 +163,29 @@
     "title": "Bloomer Girl",
     "opening": 1944,
     "ibdb": "https://www.ibdb.com/broadway-production/bloomer-girl-1583",
-    "ovtr": "https://ovrtur.com/show/119065",
+    "music": "Harold Arlen",
+    "lyrics": "E.Y. Harburg",
+    "book": "Sig Herzig and Fred Saidy",
     "wiki": "https://en.wikipedia.org/wiki/Bloomer_Girl",
     "recording": "https://open.spotify.com/album/4BhnNqa1YY2UQ1aNviEyyh",
-    "cover": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.explicit.bing.net%2Fth%3Fid%3DOIP.1ze1NM8b4FnBPgkzt44WFQHaHa%26pid%3DApi&f=1&ipt=ecdddb619537cb8b8e97ca2d3ee942ee483add2b8a0376ef3775b13b1bdeeec1&ipo=images",
+    "cover": "https://assets.playbill.com/playbill-covers/494376545d098e15779ed4aa5a5126cd-Bloomer-Girl-Playbill-05-45.jpg",
     "opinions": {
-      "favlyric": "TODO",
-      "favsong": "TODO",
-      "review": "TODO",
-      "rating": "TODO"
+      "favsong": "It Was Good Enough for Gradma",
+      "review": "I read through the plot summary before listening to the musical. Was looking forward to seeing how topics like feminism and slavery were handled. I was Sadly unable to comprehend anything they sung because of bad diction and it being an old recording. It doesn't help that none of the songs stand out from the rest. Listening to it offered me nothing valuable.",
+      "rating": "F"
     }
   },
   {
     "title": "Sadie Thompson",
     "opening": 1944,
     "ibdb": "https://www.ibdb.com/broadway-production/sadie-thompson-1597",
-    "ovtr": "https://ovrtur.com/show/120828",
+    "music": "Vernon Duke",
+    "lyrics": "Howard Dietz",
+    "book": null,
     "wiki": "https://en.wikipedia.org/wiki/Sadie_Thompson_(musical)",
     "recording": null,
-    "cover": null,
+    "cover": "https://assets.playbill.com/site/pb.Listing.Placeholder.BROADWAY.V4.jpg",
     "opinions": {
-      "favlyric": null,
       "favsong": null,
       "review": null,
       "rating": "L"
@@ -178,14 +195,15 @@
     "title": "On the Town",
     "opening": 1944,
     "ibdb": "https://www.ibdb.com/broadway-production/on-the-town-1614",
-    "ovtr": "https://ovrtur.com/show/120521",
+    "music": "Leonard Bernstein",
+    "lyrics": "Betty Comden and Adolph Green",
+    "book": "Betty Comden and Adolph Green",
     "wiki": "https://en.wikipedia.org/wiki/On_the_Town_(musical)",
     "recording": "https://www.youtube.com/playlist?list=OLAK5uy_nh3B1qHnWY3kCjTbOHsP5_84Y6cu3UGE4",
-    "cover": "https://imagedelivery.net/wFNeMS2KvHLp01mKMPOJtQ/7616a5cc-62ff-4968-dd14-b76843303c00/hero",
+    "cover": "https://assets.playbill.com/playbill-covers/42f28ab4f5851724682dfec64a4cac94-on-the-town-playbill-1944-04-web.jpg",
     "opinions": {
-      "favlyric": "Sights! Lights! Nights!",
       "favsong": "New York, New York",
-      "review": "This is one of my favorite Bernsteins scores. The book is enjoable, but not anything special, although lyrics are a bit disapointing. Overall a great show that I listen to constantly.",
+      "review": "This is one of my favorite Bernstein's scores. The book is enjoyable, but not anything special, although lyrics are a bit disapointing. Overall a great show that I listen to constantly.",
       "rating": "A"
     }
   },
@@ -193,12 +211,13 @@
     "title": "A Lady Says Yes",
     "opening": 1945,
     "ibdb": "https://www.ibdb.com/broadway-production/a-lady-says-yes-1664",
-    "ovtr": "https://ovrtur.com/show/123198",
+    "music": "Fred Spielman and Arthur Gershwin",
+    "lyrics": "Stanley Adams",
+    "book": null,
     "wiki": null,
     "recording": null,
-    "cover": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-gVMbvKiwvyQ%2FUbo5GQbsw2I%2FAAAAAAAALXA%2FVGBWvNoxe4c%2Fs1600%2Fyes3.jpg&f=1&nofb=1&ipt=64986a4edb0a466a8e5ab9ed66263976a9374d16d73b053cbdc97caff734f3aa&ipo=images",
+    "cover": "https://assets.playbill.com/playbill-covers/2aae00b75be4fe7ba462823a05636813-A-Lady-Says-Yes-Playbill-01-45.jpg",
     "opinions": {
-      "favlyric": null,
       "favsong": null,
       "review": null,
       "rating": "L"
@@ -208,27 +227,708 @@
     "title": "Up in Central Park",
     "opening": 1945,
     "ibdb": "https://www.ibdb.com/broadway-production/up-in-central-park-1669",
-    "ovtr": "https://ovrtur.com/show/121271",
+    "music": "Sigmund Romberg",
+    "lyrics": "Dorothy Fields",
+    "book": "Herbert Fields and Dorothy Fields",
     "wiki": "https://en.wikipedia.org/wiki/Up_in_Central_Park",
     "recording": "https://open.spotify.com/intl-de/album/2lKkdVI3jCqQjVGxUdIr7q",
-    "cover": "https://imagedelivery.net/wFNeMS2KvHLp01mKMPOJtQ/228186f3-e369-4ec3-0b78-d574b6929000/hero",
+    "cover": "https://assets.playbill.com/playbill-covers/ba59c957156163feefcd75cf1f111faf-Up-in-Central-Park-Playbill-08-45.jpg",
     "opinions": {
-      "favlyric": "TODO",
+      "favsong": "April Snow",
+      "review": "Was not able to find more than a short synopsis, and the recording is just above 20 minutes long. The music is somewhat beautiful especially April snow. It also has legible lyrics, something I'm very fond of.",
+      "rating": "C"
+    }
+  },
+  {
+    "title": "The Firebrand of Florence",
+    "opening": 1945,
+    "ibdb": "https://www.ibdb.com/broadway-production/the-firebrand-of-florence-1687",
+    "music": "Kurt Weill",
+    "lyrics": "Ira Gershwin",
+    "book": "Edwin Justus Mayer and Ira Gershwin",
+    "wiki": "https://en.wikipedia.org/wiki/The_Firebrand_of_Florence",
+    "recording": "https://open.spotify.com/album/4pSo3neHl3S7lcdNVSt4BK",
+    "cover": "https://assets.playbill.com/playbill-covers/3206e126b63c622df38b9c01a7cc7a84-The-Firebrand-of-Florence-Playbill-03-45.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": "I have read the plot summary and am currently listening through the 2003 recording. None of the songs stick out so far, and the story could not interest me more. I think the main problem with the musical is that everyone sings in the exact same way. Thus you can not hear differences in intonation making the story extremely flat. The recording I'm listening to is 2 hours long. Some of dialog is at least fun.",
+      "rating": "F"
+    }
+  },
+  {
+    "title": "Carousel",
+    "opening": 1945,
+    "ibdb": "https://www.ibdb.com/broadway-production/carousel-1694",
+    "music": "Richard Rodgers",
+    "lyrics": "Oscar Hammerstein II",
+    "book": "Oscar Hammerstein II",
+    "wiki": "https://en.wikipedia.org/wiki/Carousel_(musical)",
+    "recording": "https://www.youtube.com/playlist?list=PLnyZlD5iqybzZvo-HttVkxQ04_nE5alVm",
+    "cover": "https://assets.playbill.com/playbill-covers/d485a52ecd12a9662986e8bfca8d3115-carousel-playbill-1946-11-web.jpg",
+    "opinions": {
+      "favsong": "If I Loved You",
+      "review": "One of my favorite Rogers & Hammerstein musicals. Hammerstein's lyrics are phenomenal as always, but the book puts this musical over the top into S tier. Not my favorite r&h score, but it serves it's purpose.",
+      "rating": "S"
+    }
+  },
+  {
+    "title": "Marinka",
+    "opening": 1945,
+    "ibdb": "https://www.ibdb.com/broadway-production/marinka-1717",
+    "music": "Emmerich Kalman",
+    "lyrics": "George Marion, Jr.",
+    "book": "George Marion, Jr. and Karl Farkas",
+    "ovtr": "https://ovrtur.com/show/120264",
+    "wiki": "https://en.wikipedia.org/wiki/Marinka_(operetta)",
+    "recording": null,
+    "cover": "https://assets.playbill.com/playbill-covers/fd5ff645a419177227015594f2822549-Marinka-Playbill-07-45.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "Mr. Strauss Goes to Boston",
+    "opening": 1945,
+    "ibdb": "https://www.ibdb.com/broadway-production/mr-strauss-goes-to-boston-1719",
+    "music": "Robert Stolz",
+    "lyrics": "Robert Sour",
+    "book": "Leonard Louis Levinson",
+    "ovtr": "https://ovrtur.com/show/120365",
+    "wiki": null,
+    "recording": null,
+    "cover": "https://assets.playbill.com/playbill-covers/edf487945ab360eeef127bbe37041ce6-Mr-Strauss-Goes-to-Boston-Playbill-09-45.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "Carib Song",
+    "opening": 1945,
+    "ibdb": "https://www.ibdb.com/broadway-production/carib-song-1727",
+    "music": "Baldwin Bergersen",
+    "lyrics": "William Archibald",
+    "book": "William Archibald",
+    "ovtr": "https://ovrtur.com/show/119175",
+    "wiki": "https://en.wikipedia.org/wiki/Carib_Song",
+    "recording": null,
+    "cover": "https://assets.playbill.com/playbill-covers/02199e95836258d3b5369b8dfd20880e-Carib-Song-Playbill-09-45.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "The Girl from Nantucket",
+    "opening": 1945,
+    "ibdb": "https://www.ibdb.com/broadway-production/the-girl-from-nantucket-1737",
+    "music": "Jacques Belasco, Hughie Prince and Rick Rogers",
+    "lyrics": "Kay Twomey, Hughie Prince and Rick Rogers",
+    "book": "Paul Stamford, Harold Sherman and Hi Cooper",
+    "ovtr": "https://ovrtur.com/show/122644",
+    "wiki": "https://en.wikipedia.org/wiki/The_Girl_from_Nantucket",
+    "recording": null,
+    "cover": "https://assets.playbill.com/site/pb.Listing.Placeholder.BROADWAY.V4.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "Are You With It?",
+    "opening": 1945,
+    "ibdb": "https://www.ibdb.com/broadway-production/are-you-with-it-1739",
+    "music": "Harry Revel",
+    "lyrics": "Arnold B. Horwitt",
+    "book": "Sam Perrin and George Balzer",
+    "ovtr": "https://ovrtur.com/show/118915",
+    "wiki": "https://en.wikipedia.org/wiki/Are_You_with_It%3F_(musical)",
+    "recording": null,
+    "cover": "https://assets.playbill.com/playbill-covers/859dc4a4fb0e6b301400aae2dad54769-Are-You-With-It-Playbill-11-45.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "The Day before Spring",
+    "opening": 1945,
+    "ibdb": "https://www.ibdb.com/broadway-production/the-day-before-spring-1745",
+    "music": "",
+    "lyrics": "",
+    "book": "",
+    "ovtr": "https://ovrtur.com/show/119378",
+    "wiki": "https://en.wikipedia.org/wiki/The_Day_Before_Spring",
+    "recording": null,
+    "cover": "https://assets.playbill.com/playbill-covers/0c155c720855503e4baef077cd8388fa-The-Day-Before-Spring-Playbill-11-45.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "Billion Dollar Baby",
+    "opening": 1945,
+    "ibdb": "https://www.ibdb.com/broadway-production/billion-dollar-baby-1754",
+    "music": "",
+    "lyrics": "",
+    "book": "",
+    "ovtr": "https://ovrtur.com/show/119029",
+    "wiki": "https://en.wikipedia.org/wiki/Billion_Dollar_Baby",
+    "recording": null,
+    "cover": "https://assets.playbill.com/playbill-covers/01d4bbf5bf009fefcf929452ceacc2f3-Billion-Dollar-Baby-Playbill-12-45.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "Nellie Bly",
+    "opening": 1946,
+    "ibdb": "https://www.ibdb.com/broadway-production/nellie-bly-1765",
+    "music": "",
+    "lyrics": "",
+    "book": "",
+    "ovtr": "https://ovrtur.com/show/120421",
+    "wiki": null,
+    "recording": null,
+    "cover": "https://assets.playbill.com/site/pb.Listing.Placeholder.BROADWAY.V4.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "The Dutchess Misbehaves",
+    "opening": 1946,
+    "ibdb": "https://www.ibdb.com/broadway-production/the-duchess-misbehaves-1772",
+    "music": "",
+    "lyrics": "",
+    "book": "",
+    "ovtr": null,
+    "wiki": null,
+    "recording": null,
+    "cover": "https://assets.playbill.com/playbill-covers/2403584533c66b8859ac0ceecc07108e-The-Duchess-Misbehaves-02-46.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "St. Louis Woman",
+    "opening": 1946,
+    "ibdb": "https://www.ibdb.com/broadway-production/st-louis-woman-1782",
+    "music": "",
+    "lyrics": "",
+    "book": "",
+    "ovtr": "https://ovrtur.com/show/121041",
+    "wiki": "https://en.wikipedia.org/wiki/St._Louis_Woman",
+    "recording": "https://open.spotify.com/album/4Do496Npv6fYANTZAeK9tJ",
+    "cover": "https://assets.playbill.com/playbill-covers/824410c1269cc3ae4ca439c072de6184-St-Louis-Woman-Playbill-03-46.jpg",
+    "opinions": {
+      "favsong": "Legalize My Name",
+      "review": "I was in a deep despair after doing this challenge for the incredibly long 3 days. This is the first musical that I see value in besides those I had heard before like Oklahoma!, Carousel and On the Town. The music is catchy and the lyrics are legible. I look forward to giving this musical a few more listens (RETURN) to make up my mind. I have to say that the story seems uninteresting.",
+      "rating": "C"
+    }
+  },
+  {
+    "title": "Annie Get Your Gun",
+    "opening": 1946,
+    "ibdb": "https://www.ibdb.com/broadway-production/annie-get-your-gun-1440",
+    "music": "",
+    "lyrics": "",
+    "book": "",
+    "ovtr": "https://ovrtur.com/show/118894",
+    "wiki": "https://en.wikipedia.org/wiki/Annie_Get_Your_Gun_(musical)",
+    "recording": "https://www.youtube.com/playlist?list=OLAK5uy_mzUsdl_izCeYDE2uKH-b4vtD-CANbzZws",
+    "cover": "https://assets.playbill.com/playbill-covers/3ddcbecc2cd6f2152bc6fdd298b303cb-annie-get-your-gun-playbill-1946-08-web.jpg",
+    "opinions": {
+      "favsong": "Anything You Can Do",
+      "review": "This is one of the musicals I have prior experience with. That it, I've seen the movie... I don't know how accurate it is, but it was the most racist and sexist thing I had ever seen at the time, quite impressive actually. An amazing accomplishment. The music is Ivring Berlin, which means it's not too bland, but it sounds really old. My favorite part is Ethel Merman, and the other actors. They've got great joke delivery. That's a plus. That's a C",
+      "rating": "C"
+    }
+  },
+  {
+    "title": "Around the World in Eighty Days",
+    "opening": 1946,
+    "ibdb": "https://www.ibdb.com/broadway-production/around-the-world-1444",
+    "music": "",
+    "lyrics": "",
+    "book": "",
+    "ovtr": null,
+    "wiki": null,
+    "recording": null,
+    "cover": "https://assets.playbill.com/playbill-covers/38537d5f51d1f539f556e868e6dba9c6-Around-the-World-in-80-Days-Playbill-06-46.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "Park Avenue",
+    "opening": 1946,
+    "ibdb": "https://www.ibdb.com/broadway-production/park-avenue-1475",
+    "music": "",
+    "lyrics": "",
+    "book": "",
+    "ovtr": "https://ovrtur.com/production/2881473",
+    "wiki": "https://en.wikipedia.org/wiki/Park_Avenue_(musical)",
+    "recording": null,
+    "cover": "https://assets.playbill.com/playbill-covers/aa702c6c4f7902e0980ef764dbdf094b-Park-Avenue-Playbill-11-46.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "If the Shoe Fits",
+    "opening": 1946,
+    "ibdb": "https://www.ibdb.com/broadway-production/if-the-shoe-fits-1490",
+    "music": "",
+    "lyrics": "",
+    "book": "",
+    "ovtr": "https://ovrtur.com/show/119922",
+    "wiki": null,
+    "recording": null,
+    "cover": "https://assets.playbill.com/playbill-covers/8ce025cbfc3f094a2075da31834ee837-If-the-Shoe-Fits-Playbill-12-46.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "Toplitzky of Notre Dame",
+    "opening": 1946,
+    "ibdb": "https://www.ibdb.com/broadway-production/toplitzky-of-notre-dame-1499",
+    "music": "",
+    "lyrics": "",
+    "book": "",
+    "ovtr": "https://ovrtur.com/show/121219",
+    "wiki": null,
+    "recording": null,
+    "cover": "https://assets.playbill.com/playbill-covers/a7b914218cab7db58049fddcf6e164b6-Toplitzkey-of-Notre-Dame-Playbill-12-46.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "Beggar’s Holiday",
+    "opening": 1946,
+    "ibdb": "https://www.ibdb.com/broadway-production/beggars-holiday-1498",
+    "music": "",
+    "lyrics": "",
+    "book": "",
+    "ovtr": null,
+    "wiki": "https://en.wikipedia.org/wiki/Beggar%27s_Holiday",
+    "recording": "https://open.spotify.com/album/1WQM7kL5Hed3p59mVrEu6Z",
+    "cover": "https://assets.playbill.com/playbill-covers/062fc9a07f6984ea045fcba1676b9398-Beggars-Holiday-Playbill-12-46.jpg",
+    "opinions": {
+      "favsong": "Take Love Easy",
+      "review": "Listening to the 2012, meaning I have no idea what the original sounded like. It's jazz, it's groovy, it's french. I was not able to find more than a short premise, but the music was enjoyable. It was hard to pick up on any emotions throughout the show. Better than a lot of musicals up to now, but nothing special that I would play.",
+      "rating": "C"
+    }
+  },
+  {
+    "title": "Street Scene",
+    "opening": 1947,
+    "ibdb": "https://www.ibdb.com/broadway-production/street-scene-1506",
+    "music": "",
+    "lyrics": "",
+    "book": "",
+    "ovtr": "https://ovrtur.com/show/121073",
+    "wiki": "https://en.wikipedia.org/wiki/Street_Scene_(opera)",
+    "recording": "https://www.youtube.com/playlist?list=OLAK5uy_nSXqOg5opi9qYOgtc_mktsMAcxZJlTHXU",
+    "cover": "https://assets.playbill.com/playbill-covers/d4f9001ca63192f8691ae637dc750d2c-street-scene-playbill-1947-02-web.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": "I hate operas Kurt Weill, stop it. Nothing stand out and the music is not enjoyable. This is an F.",
+      "rating": "F"
+    }
+  },
+  {
+    "title": "Finian’s Rainbow",
+    "opening": 1947,
+    "ibdb": "https://www.ibdb.com/broadway-production/finians-rainbow-1507",
+    "music": "Burton Lane",
+    "lyrics": "E.Y. Harburg",
+    "book": "E.Y. Harburg and Fred Saidy",
+    "ovtr": null,
+    "wiki": "https://en.wikipedia.org/wiki/Finian%27s_Rainbow",
+    "recording": "https://www.youtube.com/playlist?list=OLAK5uy_nnAny7lG21IhLeTICF0R5w2EkUWBg9k0I",
+    "cover": "https://assets.playbill.com/playbill-covers/348cad77c787b550909a53ae51db0b37-finians-rainbow-playbill-1947-04-web.jpg",
+    "opinions": {
+      "favsong": "How Are Things in Glocca Morra",
+      "review": "The book is absolutely wild. Two Irish people try to get rich in America by using a pot of gold stolen from a leprechaun. They are apparently from a place called Glocca Morra... It has had 4 Broadway revivals, the newest one in 2009. My hopes are sky high. Rainbow High that is. The plot thickens. The white senator turns black because of someones wish. Lovely, just swell. He wishes himself white but genius writing happens: 'Og decides what the Senator needs is a new inside rather than a new outside.' -Wikipedia. It's actually good, wtf: 'The Senator tries to defend Woody and Sharon, but as a black man he lacks any authority over the Sheriff'. More from wiki: 'Og wishes the Senator white again. The Senator promises to be a better representative to the people'. I assume they did black face in the original, but I thought it would be way worse. I did not expect an anti-racism and pro-racism musical yet. Now to other aspect of the musical. I've begun a school production of the musical. Some of the characters are likable and the songs are the reason for that. This is actually a fairly decent musical I give it a B for now. This is one of the musicals I want to RETURN (search keyword) to.",
+      "rating": "B"
+    }
+  },
+  {
+    "title": "Brigadoon",
+    "opening": 1947,
+    "ibdb": "https://www.ibdb.com/broadway-production/brigadoon-1534",
+    "music": "Frederick Loewe",
+    "lyrics": "Alan Jay Lerner",
+    "book": "Alan Jay Lerner",
+    "ovtr": "https://ovrtur.com/show/119107",
+    "wiki": "https://en.wikipedia.org/wiki/Brigadoon",
+    "recording": "https://www.youtube.com/playlist?list=PL8kGVRxjiar2QOoYWXtcoSn_IBApjsFIZ",
+    "cover": "https://assets.playbill.com/playbill-covers/1e7f9b68a3b2ae17c4e13a5cdd050e92-brigadoon-playbill-1947-09-web.jpg",
+    "opinions": {
+      "favsong": "My Mother's Wedding Day",
+      "review": "The first act story seems terribly boring. I'm reading the Wikipedia and none of the songs seem to progress the plot or convey feelings. It's just romance so far. I am also not the fondest of the incest village idea. The village is hidden from the world except 1 day every 100 years. It's not novel nor does it enhance the plot. Act II is not much better. It's the love is more powerful than the rules we have learned about, so what should have been a tragedy turns into a happy ending by love. Thanks I hate it. The music ameliorates my boredom. And I can bearly understand what they are singing about. At least it's not an opera. I've read the reviews and it's highly praised for it's dancing (I can't hear any) and music. It's definitively not my cut of tea. I give it a massive D.",
+      "rating": "D"
+    }
+  },
+  {
+    "title": "Barefoot Boy with Cheek",
+    "opening": 1947,
+    "ibdb": "https://www.ibdb.com/broadway-production/barefoot-boy-with-cheek-1541",
+    "music": "Sidney Lippman",
+    "lyrics": "Sylvia Dee",
+    "book": "Max Shulman",
+    "ovtr": "https://ovrtur.com/show/121712",
+    "wiki": "https://en.wikipedia.org/wiki/Barefoot_Boy_with_Cheek",
+    "recording": null,
+    "cover": "https://assets.playbill.com/playbill-covers/fc63497dfdc6d679e8d481d829c28ce4-Barefoot-Boy-with-Cheek-Playbill-04-47.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "Louisiana Lady",
+    "opening": 1947,
+    "ibdb": "https://www.ibdb.com/broadway-production/louisiana-lady-1557",
+    "music": "Monte Carlo, Alma M. Sanders and Hilding Anderson",
+    "lyrics": "Monte Carlo and Alma M. Sanders",
+    "book": "Isaac Green, Jr. and Eugene Berton",
+    "ovtr": "https://ovrtur.com/show/123353",
+    "wiki": null,
+    "recording": null,
+    "cover": "https://assets.playbill.com/site/pb.Listing.Placeholder.BROADWAY.V4.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "High Button Shoes",
+    "opening": 1947,
+    "ibdb": "https://www.ibdb.com/broadway-production/high-button-shoes-1576",
+    "music": "Jule Styne",
+    "lyrics": "Sammy Cahn",
+    "book": "Stephen Longstreet",
+    "ovtr": "https://ovrtur.com/show/119824",
+    "wiki": "https://en.wikipedia.org/wiki/High_Button_Shoes",
+    "recording": "https://www.youtube.com/playlist?list=PL49hnK9vncl_Sn2tLWm58IfMWh-gWEFHT",
+    "cover": "https://assets.playbill.com/playbill-covers/bb1691e5ed38c3eb288df3e87688ac8e-High-Button-Shoes-Playbill-01-49.jpg",
+    "opinions": {
+      "favsong": "Can't You Just See Yourself In Love With Me?",
+      "review": "This is Jule Styne's first Broadway musical (a lot, a lot more to come). As of now I find it refreshing. Could not find a detailed plot synopsis, but the story seemed fine. The thought of having the lyrics legible has come back it seems. A strange thing for a musical. Nothing about this musicals makes me want to come back to it, so it's a C.",
+      "rating": "C"
+    }
+  },
+  {
+    "title": "Allegro",
+    "opening": 1947,
+    "ibdb": "https://www.ibdb.com/broadway-production/allegro-1787",
+    "music": "Richard Rodgers",
+    "lyrics": "Oscar Hammerstein II",
+    "book": "Oscar Hammerstein II",
+    "ovtr": "https://ovrtur.com/show/118849",
+    "wiki": "https://en.wikipedia.org/wiki/Allegro_(musical)",
+    "recording": "https://www.youtube.com/playlist?list=OLAK5uy_lMhH7E184svoGy6Yjda7fDHI1za73ola0",
+    "cover": "https://assets.playbill.com/playbill-covers/a87747fcaa28c96f9becda87eb37c308-allegro-playbill-1947-12-web.jpg",
+    "opinions": {
+      "favsong": "The Gentleman Is a Dope",
+      "review": "As an R&H fan this one is a bop. Music and lyrics are amazing, but I have not read the synopsis yet, so that has to be done. It's really the worst part about this challenge. I like the idea of being with the mc the entire time, but the girl next door has no value to me. Oh shit it's Romio and Juliet. Jennie just killed Joe's mother with a heart attack. That's epic, love her so much. Love the end. Not a masterpiece but a darn good musical. A for amazing.",
+      "rating": "A"
+    }
+  },
+  {
+    "title": "Look, Ma, I'm Dancin’!",
+    "opening": 1948,
+    "ibdb": "https://www.ibdb.com/broadway-production/look-ma-im-dancin-1648",
+    "music": "Hugh Martin",
+    "lyrics": "Hugh Martin",
+    "book": "Robert E. Lee",
+    "ovtr": null,
+    "wiki": "https://en.wikipedia.org/wiki/Look,_Ma,_I%27m_Dancin%27!",
+    "recording": "https://open.spotify.com/album/7sVWYc4GYuGwLVIi0GQ1Qr",
+    "cover": "https://assets.playbill.com/site/pb.Listing.Placeholder.BROADWAY.V4.jpg",
+    "opinions": {
       "favsong": "TODO",
       "review": "TODO",
       "rating": "TODO"
     }
   },
   {
-    "title": "The Fireband of Florence",
-    "opening": 1945,
-    "ibdb": "https://www.ibdb.com/broadway-production/the-firebrand-of-florence-1687",
-    "ovtr": "https://ovrtur.com/show/119529",
-    "wiki": "https://en.wikipedia.org/wiki/The_Firebrand_of_Florence",
-    "recording": "https://open.spotify.com/album/4pSo3neHl3S7lcdNVSt4BK",
-    "cover": "",
+    "title": "Hold It!",
+    "opening": 1948,
+    "ibdb": "https://www.ibdb.com/broadway-production/hold-it-2001",
+    "music": "Gerald Marks",
+    "lyrics": "Samuel M. Lerner",
+    "book": "Matt Brooks and Art Arthur",
+    "ovtr": "https://ovrtur.com/show/122884",
+    "wiki": null,
+    "recording": null,
+    "cover": "https://assets.playbill.com/playbill-covers/d9a442bb3836903d159be9454da4ac90-Hold-It-Playbill-05-48.jpg",
     "opinions": {
-      "favlyric": "TODO",
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "Ballet Ballads",
+    "opening": 1948,
+    "ibdb": "https://www.ibdb.com/broadway-production/ballet-ballads-2004",
+    "music": "Jerome Moross",
+    "lyrics": "John Latouche",
+    "book": null,
+    "ovtr": "https://ovrtur.com/show/118958",
+    "wiki": null,
+    "recording": "",
+    "cover": "https://assets.playbill.com/site/pb.Listing.Placeholder.BROADWAY.V4.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "Sleepy Hollow",
+    "opening": 1948,
+    "ibdb": "https://www.ibdb.com/broadway-production/sleepy-hollow-2012",
+    "music": "George Lessner",
+    "lyrics": "Russell Maloney and Miriam Battista",
+    "book": "Russell Maloney and Miriam Battista",
+    "ovtr": "https://ovrtur.com/show/124483",
+    "wiki": null,
+    "recording": "",
+    "cover": "https://assets.playbill.com/site/pb.Listing.Placeholder.BROADWAY.V4.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "Heaven on Earth",
+    "opening": 1948,
+    "ibdb": "https://www.ibdb.com/broadway-production/heaven-on-earth-2017",
+    "music": "Jay Gorney",
+    "lyrics": "Barry Trivers",
+    "book": "Barry Trivers",
+    "ovtr": "https://ovrtur.com/show/122816",
+    "wiki": null,
+    "recording": null,
+    "cover": "https://assets.playbill.com/playbill-covers/ae495113bae68ff916dfb4d0e72b0888-Heaven-on-Earth-Playbill-09-48.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "Magdalena",
+    "opening": 1948,
+    "ibdb": "https://www.ibdb.com/broadway-production/magdalena-2018",
+    "music": "Heitor Villa-Lobos",
+    "lyrics": "Robert Wright and George Forrest",
+    "book": "Frederick Hazlitt Brennan and Homer Curran",
+    "ovtr": "https://ovrtur.com/show/120219",
+    "wiki": "https://en.wikipedia.org/wiki/Magdalena:_a_Musical_Adventure",
+    "recording": "https://open.spotify.com/album/5xQYfbvJKeut1T5YCMGsQD",
+    "cover": "https://assets.playbill.com/site/pb.Listing.Placeholder.BROADWAY.V4.jpg",
+    "opinions": {
+      "favsong": "TODO",
+      "review": "TODO",
+      "rating": "TODO"
+    }
+  },
+  {
+    "title": "Love Life",
+    "opening": 1948,
+    "ibdb": "https://www.ibdb.com/broadway-production/love-life-2027",
+    "music": "Kurt Weill",
+    "lyrics": "Alan Jay Lerner",
+    "book": "Alan Jay Lerner",
+    "ovtr": "https://ovrtur.com/show/120181",
+    "wiki": "https://en.wikipedia.org/wiki/Love_Life_(musical)",
+    "recording": null,
+    "cover": "https://assets.playbill.com/playbill-covers/2dc59a4be4397c87b2846d2f11b216b8-love-life-playbill-1948-10-web.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": "I win this time Kurt Weill. There was a strike so no recording was made. Source Wikipedia",
+      "rating": "L"
+    }
+  },
+  {
+    "title": "Where’s Charley?",
+    "opening": 1948,
+    "ibdb": "https://www.ibdb.com/broadway-production/wheres-charley-2028",
+    "music": "Frank Loesser",
+    "lyrics": "Frank Loesser",
+    "book": "George Abbott",
+    "ovtr": null,
+    "wiki": "https://en.wikipedia.org/wiki/Where%27s_Charley%3F",
+    "recording": "https://www.youtube.com/playlist?list=PLcvFO4lyuy_vK6ZaWSBiFVe_cj_TdjGEV",
+    "cover": "https://assets.playbill.com/playbill-covers/0a2f7d05456a4c53e6cb4776cad872b9-wheres-charley-playbill-1949-03-web.jpg",
+    "opinions": {
+      "favsong": "TODO",
+      "review": "TODO",
+      "rating": "TODO"
+    }
+  },
+  {
+    "title": "My Romance",
+    "opening": 1948,
+    "ibdb": "https://www.ibdb.com/broadway-production/my-romance-2031",
+    "music": "Sigmund Romberg",
+    "lyrics": "Rowland Leigh",
+    "book": "Rowland Leigh",
+    "ovtr": "https://ovrtur.com/show/123738",
+    "wiki": "https://en.wikipedia.org/wiki/My_Romance_(musical)",
+    "recording": null,
+    "cover": "https://assets.playbill.com/playbill-covers/959f193f414edbecb2f3ef92c0d9e600-My-Romance-Playbill-11-48.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "As the Girls Go",
+    "opening": 1948,
+    "ibdb": "https://www.ibdb.com/broadway-production/as-the-girls-go-2037",
+    "music": "Jimmy McHugh",
+    "lyrics": "Harold Adamson",
+    "book": "William Roos",
+    "ovtr": "https://ovrtur.com/show/118925",
+    "wiki": "https://en.wikipedia.org/wiki/As_the_Girls_Go",
+    "recording": null,
+    "cover": "https://assets.playbill.com/playbill-covers/41636244e4122b3e442609b6357b44cb-As-the-Girls-Go-Playbill-04-49.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "Kiss Me, Kate",
+    "opening": 1948,
+    "ibdb": "https://www.ibdb.com/broadway-production/kiss-me-kate-2054",
+    "music": "Cole Porter",
+    "lyrics": "Cole Porter",
+    "book": "Bella Spewack and Samuel Spewack",
+    "ovtr": "https://ovrtur.com/show/120055",
+    "wiki": "https://en.wikipedia.org/wiki/Kiss_Me,_Kate",
+    "recording": "https://www.youtube.com/playlist?list=OLAK5uy_m5hXxo4mSByYMa8ETs77zTGdIjctfCfyY",
+    "cover": "https://assets.playbill.com/playbill-covers/45aebe635f39fe46f86b6f4f3826542c-kiss-me-kate-playbill-1949-01-web.jpg",
+    "opinions": {
+      "favsong": "TODO",
+      "review": "TODO",
+      "rating": "TODO"
+    }
+  },
+  {
+    "title": "South Pacific",
+    "opening": 1949,
+    "ibdb": "https://www.ibdb.com/broadway-production/south-pacific-1831",
+    "music": "Richard Rodgers",
+    "lyrics": "Oscar Hammerstein II",
+    "book": "Oscar Hammerstein II",
+    "ovtr": "https://ovrtur.com/show/121023",
+    "wiki": "https://en.wikipedia.org/wiki/South_Pacific_(musical)",
+    "recording": "https://www.youtube.com/playlist?list=PLcvFO4lyuy_sqkv21gYERyGoBGS1kE13T",
+    "cover": "https://assets.playbill.com/playbill-covers/9b641a5a15d046afbbc474c0706d822a-south-pacific-playbill-1949-04-web.jpg",
+    "opinions": {
+      "favsong": "TODO",
+      "review": "TODO",
+      "rating": "TODO"
+    }
+  },
+  {
+    "title": "Miss Liberty",
+    "opening": 1949,
+    "ibdb": "https://www.ibdb.com/broadway-production/miss-liberty-1840",
+    "music": "Irving Berlin",
+    "lyrics": "Irving Berlin",
+    "book": "Robert E. Sherwood",
+    "ovtr": "https://ovrtur.com/show/120332",
+    "wiki": "https://en.wikipedia.org/wiki/Miss_Liberty",
+    "recording": "https://www.youtube.com/playlist?list=PLwTd3OfptMehNOOcs-Q03kzueBWK7gpkW",
+    "cover": "https://assets.playbill.com/playbill-covers/7d56e6b175216eaea0ed0221601f7ed7-Miss-Liberty-Playbill-10-49.jpg",
+    "opinions": {
+      "favsong": "TODO",
+      "review": "TODO",
+      "rating": "TODO"
+    }
+  },
+  {
+    "title": "Lost in the Stars",
+    "opening": 1949,
+    "ibdb": "https://www.ibdb.com/broadway-production/lost-in-the-stars-2128",
+    "music": "Kurt Weill",
+    "lyrics": "Maxwell Anderson",
+    "book": "Maxwell Anderson",
+    "ovtr": "https://ovrtur.com/show/120167",
+    "wiki": "https://en.wikipedia.org/wiki/Lost_in_the_Stars",
+    "recording": "https://www.youtube.com/playlist?list=PL36ECXzYuW27snZfXzmDT9j9Xxc2y5lCI",
+    "cover": "https://assets.playbill.com/site/pb.Listing.Placeholder.BROADWAY.V4.jpg",
+    "opinions": {
+      "favsong": "TODO",
+      "review": "TODO. Rest in Peace Kurt Weill",
+      "rating": "TODO"
+    }
+  },
+  {
+    "title": "Texas, Li’l Darlin’",
+    "opening": 1949,
+    "ibdb": "https://www.ibdb.com/broadway-production/texas-lil-darlin-1818",
+    "music": "Robert Emmett Dolan",
+    "lyrics": "Johnny Mercer",
+    "book": "John Whedon and Sam Moore",
+    "ovtr": null,
+    "wiki": null,
+    "recording": "https://open.spotify.com/album/4SRKQYkUrYWI62uo3gWofM",
+    "cover": "https://assets.playbill.com/playbill-covers/a029c2ee3a057c40dbc8539f9fd3ce48-Texas-Lil-Darlin-Playbill-11-49.jpg",
+    "opinions": {
+      "favsong": "TODO",
+      "review": "TODO",
+      "rating": "TODO"
+    }
+  },
+  {
+    "title": "Gentlemen Prefer Blondes",
+    "opening": 1949,
+    "ibdb": "https://www.ibdb.com/broadway-production/gentlemen-prefer-blondes-1845",
+    "music": "Jule Styne",
+    "lyrics": "Leo Robin",
+    "book": "Joseph Fields and Anita Loos",
+    "ovtr": "https://ovrtur.com/show/119624",
+    "wiki": "https://en.wikipedia.org/wiki/Gentlemen_Prefer_Blondes_(musical)",
+    "recording": "https://www.youtube.com/playlist?list=OLAK5uy_m4dN2DKB0qE9n52Rh-tIGau_XFGLtfV9I",
+    "cover": "https://assets.playbill.com/playbill-covers/342f0b1a702a5860e1b1bc9af31155cb-gentlemen-prefer-blondes-playbill-1950-04-web.jpg",
+    "opinions": {
       "favsong": "TODO",
       "review": "TODO",
       "rating": "TODO"

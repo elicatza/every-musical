@@ -9,6 +9,8 @@
 set -e
 
 printf "Enter musical title: " && read title
+MOZ_ALLOW_DOWNGRADE=1 firefox --new-tab --profile ~/tmp/ffprofile "https://duckduckgo.com/?q=${title}+site%3Aplaybill.com&t=ffsb&ia=web"
+MOZ_ALLOW_DOWNGRADE=1 firefox --new-tab --profile ~/tmp/ffprofile "https://duckduckgo.com/?q=${title}+site%3Aspotify.com&t=ffsb&ia=web"
 MOZ_ALLOW_DOWNGRADE=1 firefox --new-tab --profile ~/tmp/ffprofile "https://www.youtube.com/results?search_query=${title}+musical+recording"
 MOZ_ALLOW_DOWNGRADE=1 firefox --new-tab --profile ~/tmp/ffprofile "https://en.wikipedia.org/w/index.php?search=${title}"
 MOZ_ALLOW_DOWNGRADE=1 firefox --new-tab --profile ~/tmp/ffprofile "https://ovrtur.com/search-results?search=${title}"
@@ -16,13 +18,15 @@ MOZ_ALLOW_DOWNGRADE=1 firefox --new-tab --profile ~/tmp/ffprofile "https://duckd
 
 printf "Enter opening year: " && read opening
 printf "Enter ibdb link: " && read ibdb
+printf "Enter composer: " && read music
+printf "Enter lyricist: " && read lyrics
+printf "Enter librettist: " && read book
 printf "Enter ovtr link: " && read ovtr
 printf "Enter wiki link: " && read wiki
 printf "Enter recording : " && read recording
 printf "Enter cover : " && read cover
 
 inner=$(jq -n \
-    --argjson favlyric null \
     --argjson favsong null \
     --argjson review null \
     --argjson rating null \
@@ -32,6 +36,9 @@ outer=$(jq -n \
     --arg title "$title" \
     --argjson opening "$opening" \
     --arg ibdb "$ibdb" \
+    --arg music "$music" \
+    --arg lyrics "$lyrics" \
+    --arg book "$book" \
     --arg ovtr "$ovtr" \
     --arg wiki "$wiki" \
     --arg recording "$recording" \
