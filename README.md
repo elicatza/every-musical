@@ -38,6 +38,9 @@ written review.
 Review keywords
 - RETURN: musicals I want to come back to at a later date
 
+## Funnies for later reviews
+- Love Music "Well, well, well, or should I say Weill, Weill, Weill, Kurt Weill that is. We meet at last."
+
 ## Books
 - [40s](https://books.google.no/books?id=VRiMBgAAQBAJ&pg=PA519&lpg=PA519&dq=Every+%22book+musical+with+new+music%22&source=bl&ots=DTSFbttDjp&sig=ACfU3U3lwoxwpiXhgeCojDo5Z_xUP2eUSQ&hl=en&sa=X&ved=2ahUKEwj4_sv-k4KAAxW6SfEDHRb0DFQQ6AF6BAg4EAM)
 - [50s](https://books.google.no/books?id=_Zz_AwAAQBAJ&pg=PA391&lpg=PA391&dq=Every+%22book+musical+with+new+music%22&source=bl&ots=gJBZJ_oU-k&sig=ACfU3U0cYc3Pduj1fTrBe2X5YrhgAoVShw&hl=en&sa=X&ved=2ahUKEwj4_sv-k4KAAxW6SfEDHRb0DFQQ6AF6BAg3EAM)
@@ -51,9 +54,9 @@ The Complete Book of 2010s Broadway Musicals
 
 ## All musicals (XXX total)
 These are all book musicals with original music as categorized by Dan Dietz in
-/The Complete Book of Broadway Musicals/. Ending X means that there is a recording.
+/The Complete Book of Broadway Musicals/. Ending X denotes a recording.
 
-## 40s (78 musicals)
+## 1940s (78 musicals, 24 recordings)
 - [ ] John Henry
 - [ ] Higher and Higher
 - [ ] Louisiana Purchase
@@ -76,23 +79,23 @@ These are all book musicals with original music as categorized by Dan Dietz in
 - [ ] Beat the Band
 - [ ] You’ll See Stars
 - [ ] Something for the Boys
-- [X] Oklahoma!  X
+- [X] Oklahoma!
 - [X] Early to Bed
 - [X] My Dear Public
 - [X] Hairpin Harmony
-- [X] One Touch of Venus  X
+- [X] One Touch of Venus
 - [X] What’s Up
 - [X] Jackpot
-- [X] Mexican Hayride  X
+- [X] Mexican Hayride
 - [X] Follow the Girls
 - [X] Allah Be Praised!
-- [X] Bloomer Girl  X
+- [X] Bloomer Girl
 - [X] Sadie Thompson
-- [X] On the Town  X
+- [X] On the Town
 - [X] A Lady Says Yes
-- [X] Up in Central Park  X
-- [X] The Firebrand of Florence  X
-- [X] Carousel  X
+- [X] Up in Central Park
+- [X] The Firebrand of Florence
+- [X] Carousel
 - [X] Marinka
 - [X] Mr. Strauss Goes to Boston
 - [X] Carib Song
@@ -102,38 +105,38 @@ These are all book musicals with original music as categorized by Dan Dietz in
 - [X] Billion Dollar Baby
 - [X] Nellie Bly
 - [X] The Duchess Misbehaves
-- [X] St. Louis Woman  X
-- [X] Annie Get Your Gun  X
+- [X] St. Louis Woman
+- [X] Annie Get Your Gun
 - [X] Around the World in Eighty Days
 - [X] Park Avenue
 - [X] If the Shoe Fits
 - [X] Toplitzky of Notre Dame
-- [X] Beggar’s Holiday  X
+- [X] Beggar’s Holiday
 - [X] Street Scene
-- [X] Finian’s Rainbow  X
-- [X] Brigadoon  X
+- [X] Finian’s Rainbow
+- [X] Brigadoon
 - [X] Barefoot Boy with Cheek
 - [X] Louisiana Lady
-- [X] High Button Shoes  X
-- [X] Allegro  X
-- [ ] Look, Ma, I'm Dancin’!  X
-- [ ] Hold It!
-- [ ] Ballet Ballads
-- [ ] Sleepy Hollow
-- [ ] Heaven on Earth
-- [ ] Magdalena  X
-- [ ] Love Life
-- [ ] Where’s Charley?  X
-- [ ] My Romance
-- [ ] As the Girls Go
-- [ ] Kiss Me, Kate  X
-- [ ] South Pacific  X
-- [ ] Miss Liberty  X
-- [ ] Lost in the Stars  X
-- [ ] Texas, Li’l Darlin’  X
-- [ ] Gentlemen Prefer Blondes  X
+- [X] High Button Shoes
+- [X] Allegro
+- [ ] Look, Ma, I'm Dancin’!
+- [X] Hold It!
+- [X] Ballet Ballads
+- [X] Sleepy Hollow
+- [X] Heaven on Earth
+- [ ] Magdalena
+- [X] Love Life
+- [X] Where’s Charley?
+- [X] My Romance
+- [X] As the Girls Go
+- [ ] Kiss Me, Kate
+- [ ] South Pacific
+- [ ] Miss Liberty
+- [ ] Lost in the Stars
+- [ ] Texas, Li’l Darlin’
+- [ ] Gentlemen Prefer Blondes
 
-## 50s (71 musicals)
+## 1950s (71 musicals)
 - [ ] Happy as Larry
 - [ ] Arms and the Girl
 - [ ] Great to Be Alive!
@@ -206,27 +209,204 @@ These are all book musicals with original music as categorized by Dan Dietz in
 - [ ] Fiorello!
 - [ ] Saratoga
 
-## 60s
+## 1960s (98 musicals)
+- [ ] Beg, Borrow or Steal
+- [ ] Greenwillow
+- [ ] Bye Bye Birdie
+- [ ] Christine
+- [ ] Tenderloin
+- [ ] The Unsinkable Molly Brown
+- [ ] Camelot
+- [ ] Wildcat
+- [ ] Do Re Mi
+- [ ] The Conquering Hero
+- [ ] 13 Daughters
+- [ ] Carnival!
+- [ ] Donnybrook!
+- [ ] Sail Away
+- [ ] Milk and Honey
+- [ ] Let It Ride!
+- [ ] How to Succeed in Business without Really Trying
+- [ ] Kwamina
+- [ ] Kean
+- [ ] The Gay Life
+- [ ] Subways Are for Sleeping
+- [ ] A Family Affair
+- [ ] No Strings
+- [ ] All American
+- [ ] I Can Get It for You Wholesale
+- [ ] A Funny Thing Happened on the Way to the Forum
+- [ ] Bravo Giovanni
+- [ ] Mr. President
+- [ ] Nowhere to Go but Up
+- [ ] Little Me
+- [ ] Tovarich
+- [ ] Sophie
+- [ ] Hot Spot
+- [ ] She Loves Me
+- [ ] The Student Gypsy, or “The Prince of Liederkranz”
+- [ ] Here’s Love
+- [ ] Jennie
+- [ ] 110 in the Shade
+- [ ] Tambourines to Glory
+- [ ] The Girl Who Came to Supper
+- [ ] Hello, Dolly!
+- [ ] Foxy
+- [ ] What Makes Sammy Run?
+- [ ] Funny Girl
+- [ ] Anyone Can Whistle
+- [ ] High Spirits
+- [ ] Café Crown
+- [ ] Fade Out—Fade In
+- [ ] Fiddler on the Roof
+- [ ] Golden Boy
+- [ ] Ben Franklin in Paris
+- [ ] Something More!
+- [ ] Bajour
+- [ ] I Had a Ball
+- [ ] Kelly
+- [ ] Baker Street
+- [ ] Do I Hear a Waltz?
+- [ ] Flora, the Red Menace
+- [ ] Drat! The Cat!
+- [ ] On a Clear Day You Can See Forever
+- [ ] The Zulu and the Zayda
+- [ ] Skyscraper
+- [ ] Man of La Mancha
+- [ ] The Yearling
+- [ ] Sweet Charity
+- [ ] Pousse-Café
+- [ ] “It’s a Bird It’s a Plane It’s SUPERMAN"
+- [ ] A Time for Singing
+- [ ] Mame
+- [ ] The Apple Tree
+- [ ] Cabaret
+- [ ] Walking Happy
+- [ ] I Do! I Do!
+- [ ] A Joyful Noise
+- [ ] Sherry!
+- [ ] Illya Darling
+- [ ] Hallelujah, Baby!
+- [ ] Henry, Sweet Henry
+- [ ] How Now, Dow Jones
+- [ ] The Happy Time
+- [ ] Darling of the Day
+- [ ] Golden Rainbow
+- [ ] Here’s Where I Belong
+- [ ] The Education of H*Y*M*A*N K*A*P*L*A*N
+- [ ] I'm Solomon
+- [ ] Her First Roman
+- [ ] Maggie Flynn
+- [ ] Zorba
+- [ ] Promises, Promises
+- [ ] The Fig Leaves Are Falling
+- [ ] Dear World
+- [ ] 1776
+- [ ] Come Summer
+- [ ] Billy
+- [ ] Jimmy
+- [ ] Buck White
+- [ ] La Strada
+- [ ] Coco
+
+## 1970s (84 musicals)
+- [ ] Gantry
+- [ ] Georgy
+- [ ] Purlie
+- [ ] Blood Red Roses
+- [ ] Minnie’s Boys
+- [ ] Look to the Lilies
+- [ ] Applause
+- [ ] Cry for Us All (during part of tryout, the production was titled Who to Love)
+- [ ] Park
+- [ ] Company
+- [ ] The Rothschilds
+- [ ] The President’s Daughter
+- [ ] Two by Two
+- [ ] Lovely Ladies, Kind Gentlemen
+- [ ] Soon
+- [ ] Ari
+- [ ] Follies
+- [ ] 70, Girls, 70
+- [ ] Frank Merriwell, or Honor Challenged
+- [ ] By Dan Dietz Earl of Ruston
+- [ ] Jesus Christ Superstar
+- [ ] The Grass Harp
+- [ ] Wild and Wonderful
+- [ ] Grease
+- [ ] Sugar
+- [ ] Different Times
+- [ ] Dont Play Us Cheap
+- [ ] Heathen!
+- [ ] Mass
+- [ ] Dude, or The Highway Life
+- [ ] Hurry, Harry
+- [ ] Pippin
+- [ ] Lysistrata
+- [ ] Dear Oscar
+- [ ] Via Galactica
+- [ ] Tricks
+- [ ] Shelter
+- [ ] A Little Night Music
+- [ ] Seesaw
+- [ ] Cyrano
+- [ ] Smith
+- [ ] Raisin
+- [ ] Molly
+- [ ] Rainbow Jones (during part of tryout, the production was titled R.J.)
+- [ ] Sextet
+- [ ] Over Here!
+- [ ] Ride the Winds
+- [ ] The Magic Show
+- [ ] Mack & Mabel
+- [ ] The Big Winner
+- [ ] The Wiz
+- [ ] Shenandoah
+- [ ] Man on the Moon
+- [ ] Goodtime Charley
+- [ ] The Lieutenant
+- [ ] Doctor Jazz
+- [ ] Chicago
+- [ ] The 5th Season
+- [ ] Boccaccio
+- [ ] Home Sweet Homer (during most of tryout, the production was titled Odyssey)
+- [ ] Pacific Overtures
+- [ ] Rex
+- [ ] So Long, 174th Street
+- [ ] 1600 Pennsylvania Avenue
+- [ ] Something’s Afoot
+- [ ] Music Is
+- [ ] I Love My Wife
+- [ ] Annie
+- [ ] The Act (during part of tryout, the production was titled Shine It On)
+- [ ] On the Twentieth Century
+- [ ] Angel
+- [ ] King of Hearts
+- [ ] Platinum
+- [ ] Ballroom
+- [ ] A Broadway Musical
+- [ ] The Grand Tour
+- [ ] Sarava
+- [ ] They're Playing Our Song
+- [ ] Sweeney Todd, the Demon Barber of Fleet Street
+- [ ] Carmelina
+- [ ] The Utter Glory of Morrissey Hall
+- [ ] I Remember Mama
+- [ ] Got Tu Go Disco
+- [ ] Comin’ Uptown
+
+## 1980s
 TODO
 
-## 70s
+## 1990s
 TODO
 
-## 70s
+## 2000s
 TODO
 
-## 80s
+## 2010s
 TODO
 
-## 90s
-TODO
-
-## 00s
-TODO
-
-## 10s
-TODO
-
-## 20s
+## 2020s
 TODO
 
