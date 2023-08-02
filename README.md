@@ -1,12 +1,14 @@
 # Listening to every broadway musical
 
 This repo will have tools to download all musicals. I would also like to store
-my ratings here. Maybe I'll learn htmx, so that I can make an amazing tier
+my ratings here. I want to learn htmx & leptos, so that I can make an amazing tier
 list.
 
 I hope this will serve as useful tool for finding new musicals. To ensure so,
 I'll include favorite song and lyric for each musical as well as a short
 written review.
+
+I started this challenge 2023-07-09. currently (50 / XXX).
 
 ## Roadmap
 1. [X] Download a list of all Broadway musicals.
@@ -130,11 +132,11 @@ These are all book musicals with original music as categorized by Dan Dietz in
 - [X] My Romance
 - [X] As the Girls Go
 - [ ] Kiss Me, Kate
-- [ ] South Pacific
+- [X] South Pacific
 - [ ] Miss Liberty
 - [ ] Lost in the Stars
 - [ ] Texas, Li’l Darlin’
-- [ ] Gentlemen Prefer Blondes
+- [X] Gentlemen Prefer Blondes
 
 ## 1950s (71 musicals)
 - [ ] Happy as Larry
