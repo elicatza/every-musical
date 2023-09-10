@@ -121,7 +121,7 @@ These are all book musicals with original music as categorized by Dan Dietz in
 - [X] Louisiana Lady
 - [X] High Button Shoes
 - [X] Allegro
-- [ ] Look, Ma, I'm Dancin’!
+- [X] Look, Ma, I'm Dancin’!
 - [X] Hold It!
 - [X] Ballet Ballads
 - [X] Sleepy Hollow
@@ -133,8 +133,8 @@ These are all book musicals with original music as categorized by Dan Dietz in
 - [X] As the Girls Go
 - [ ] Kiss Me, Kate
 - [X] South Pacific
-- [ ] Miss Liberty
-- [ ] Lost in the Stars
+- [X] Miss Liberty
+- [X] Lost in the Stars
 - [ ] Texas, Li’l Darlin’
 - [X] Gentlemen Prefer Blondes
 
