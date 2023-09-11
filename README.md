@@ -8,14 +8,14 @@ I hope this will serve as useful tool for finding new musicals. To ensure so,
 I'll include favorite song and lyric for each musical as well as a short
 written review.
 
-I started this challenge 2023-07-09. currently (50 / XXX).
+I started this challenge 2023-07-09. Currently (56 / XXX).
 
 ## Roadmap
 1. [X] Download a list of all Broadway musicals.
 2. [X] Create a tool that adds musicals to JSON file containing title, release date, and links
 3. [X] Create a tool to downloads recordings
 4. [ ] Listen, rate and review
-   - [ ] 1940s
+   - [X] 1940s
    - [ ] 1950s
    - [ ] 1960s
    - [ ] 1970s
@@ -126,16 +126,16 @@ These are all book musicals with original music as categorized by Dan Dietz in
 - [X] Ballet Ballads
 - [X] Sleepy Hollow
 - [X] Heaven on Earth
-- [ ] Magdalena
+- [X] Magdalena
 - [X] Love Life
 - [X] Where’s Charley?
 - [X] My Romance
 - [X] As the Girls Go
-- [ ] Kiss Me, Kate
+- [X] Kiss Me, Kate
 - [X] South Pacific
 - [X] Miss Liberty
 - [X] Lost in the Stars
-- [ ] Texas, Li’l Darlin’
+- [X] Texas, Li’l Darlin’
 - [X] Gentlemen Prefer Blondes
 
 ## 1950s (71 musicals)
