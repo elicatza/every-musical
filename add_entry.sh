@@ -9,12 +9,12 @@
 set -e
 
 printf "Enter musical title: " && read title
-MOZ_ALLOW_DOWNGRADE=1 firefox --new-tab --profile ~/tmp/ffprofile "https://duckduckgo.com/?q=${title}+site%3Aplaybill.com&t=ffsb&ia=web"
-MOZ_ALLOW_DOWNGRADE=1 firefox --new-tab --profile ~/tmp/ffprofile "https://duckduckgo.com/?q=${title}+site%3Aspotify.com&t=ffsb&ia=web"
-MOZ_ALLOW_DOWNGRADE=1 firefox --new-tab --profile ~/tmp/ffprofile "https://www.youtube.com/results?search_query=${title}+musical+recording"
-MOZ_ALLOW_DOWNGRADE=1 firefox --new-tab --profile ~/tmp/ffprofile "https://en.wikipedia.org/w/index.php?search=${title}"
-MOZ_ALLOW_DOWNGRADE=1 firefox --new-tab --profile ~/tmp/ffprofile "https://ovrtur.com/search-results?search=${title}"
-MOZ_ALLOW_DOWNGRADE=1 firefox --new-tab --profile ~/tmp/ffprofile "https://duckduckgo.com/?q=${title}+site%3Aibdb.com&t=ffsb&ia=web"
+firefox --new-tab "https://duckduckgo.com/?q=${title}+site%3Aplaybill.com&t=ffsb&ia=web"
+firefox --new-tab "https://duckduckgo.com/?q=${title}+site%3Aspotify.com&t=ffsb&ia=web"
+firefox --new-tab "https://www.youtube.com/results?search_query=${title}+musical+recording"
+firefox --new-tab "https://en.wikipedia.org/w/index.php?search=${title}"
+firefox --new-tab "https://ovrtur.com/search-results?search=${title}"
+firefox --new-tab "https://duckduckgo.com/?q=${title}+site%3Aibdb.com&t=ffsb&ia=web"
 
 printf "Enter opening year: " && read opening
 printf "Enter ibdb link: " && read ibdb

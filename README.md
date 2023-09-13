@@ -139,21 +139,21 @@ These are all book musicals with original music as categorized by Dan Dietz in
 - [X] Gentlemen Prefer Blondes
 
 ## 1950s (71 musicals)
-- [ ] Happy as Larry
-- [ ] Arms and the Girl
-- [ ] Great to Be Alive!
-- [ ] The Liar
-- [ ] Call Me Madam
+- [X] Happy as Larry
+- [X] Arms and the Girl
+- [X] Great to Be Alive!
+- [X] The Liar
+- [X] Call Me Madam
 - [ ] Guys and Dolls (1950)
 - [ ] Out of This World
-- [ ] Jotham Valley
+- [X] Jotham Valley
 - [ ] The King and I (1951)
 - [ ] Make a Wish
 - [ ] A Tree Grows in Brooklyn
 - [ ] Flahooley
 - [ ] Courtin’ Time
 - [ ] Seventeen
-- [ ] Top Banana
+- [X] Top Banana
 - [ ] Paint Your Wagon
 - [ ] Three Wishes for Jamie
 - [ ] Wish You Were Here

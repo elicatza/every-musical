@@ -539,7 +539,7 @@
     "cover": "https://assets.playbill.com/playbill-covers/062fc9a07f6984ea045fcba1676b9398-Beggars-Holiday-Playbill-12-46.jpg",
     "opinions": {
       "favsong": "Take Love Easy",
-      "review": "Listening to the 2012, meaning I have no idea what the original sounded like. It's jazz, it's groovy, it's french. I was not able to find more than a short premise, but the music was enjoyable. It was hard to pick up on any emotions throughout the show. Better than a lot of musicals up to now, but nothing special that I would play. From older and wiser me: It's The Beggars Opera.",
+      "review": "Listening to the 2012, meaning I have no idea what the original sounded like. It's jazz, it's groovy, it's french. I was not able to find more than a short premise, but the music was enjoyable. It was hard to pick up on any emotions throughout the show. Better than a lot of musicals up to now, but nothing special that I would play. From older and wiser me: It's The Beggars Opera.'",
       "rating": "C"
     }
   },
@@ -895,7 +895,7 @@
     "recording": "https://www.youtube.com/playlist?list=OLAK5uy_m4Jg9RG1p5oxtIa6i3QYDsq6DMQWhwZqQ",
     "cover": "https://assets.playbill.com/site/pb.Listing.Placeholder.BROADWAY.V4.jpg",
     "opinions": {
-        "favsong": "Cry, The Beloved Country",
+      "favsong": "Cry, The Beloved Country",
       "review": "With an impactfull stor and engaging music this one stands out as one of my favorite musicals this decade. Adding this to my music collection. Started listening to Three penny opera, it's so good. Rest in Peace Kurt Weill.",
       "rating": "A"
     }
@@ -932,6 +932,210 @@
       "favsong": "Diamonds are a girls best friend",
       "review": "The story is so boring to read, but I managed. I enjoy Jule Styne music in Funny Girl and Gypsy, but I'm sadly disappointed in his earlier works. Also Carol Channing is amazing.",
       "rating": "D"
+    }
+  },
+  {
+    "title": "Happy as Larry",
+    "opening": 1950,
+    "ibdb": "https://www.ibdb.com/broadway-production/happy-as-larry-1851",
+    "music": "Mischa Portnoff and Wesley Portnoff",
+    "lyrics": "Donagh MacDonagh",
+    "book": "Donagh MacDonagh",
+    "ovtr": "https://ovrtur.com/production/2889043",
+    "wiki": null,
+    "recording": null,
+    "cover": "https://assets.playbill.com/playbill-covers/bca3638bc5998ff3a02dfc079940eaee-happy-as-larry-playbill-1950-01-web.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "Arms and the Girl",
+    "opening": 1950,
+    "ibdb": "https://www.ibdb.com/broadway-production/arms-and-the-girl-1864",
+    "music": "Morton Gould",
+    "lyrics": "Dorothy Fields",
+    "book": "Herbert Fields, Dorothy Fields and Rouben Mamoulian",
+    "ovtr": "https://ovrtur.com/show/118918",
+    "wiki": "https://en.wikipedia.org/wiki/Arms_and_the_Girl_(musical)",
+    "recording": "https://en.wikipedia.org/wiki/Arms_and_the_Girl_(musical)",
+    "cover": "https://assets.playbill.com/playbill-covers/26c0868a83ddfe7a1d75863b0fd91ea1-Arms-and-the-Girl-Playbill-02-50.jpg",
+    "opinions": {
+      "favsong": "I Like It Here",
+      "review": "Sadly lacking a synopsis. The songs seem to be contributing to the plot. The music is more relaxed, but blends in with it's other contemporaries. The later songs are very demanding to listen too.",
+      "rating": "C"
+    }
+  },
+  {
+    "title": "Great to Be Alive!",
+    "opening": 1950,
+    "ibdb": "https://www.ibdb.com/broadway-production/great-to-be-alive-2138",
+    "music": "Abraham Ellstein and Robert Russell Bennett",
+    "lyrics": "Walter Bullock",
+    "book": "Walter Bullock and Sylvia Regan",
+    "ovtr": "https://ovrtur.com/show/119728",
+    "wiki": null,
+    "recording": null,
+    "cover": "https://assets.playbill.com/playbill-covers/f6d7a5d43dd819d5fc13cd876bbb1fe0-Great-to-Be-Alive-Playbill-03-50.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "The Liar",
+    "opening": 1950,
+    "ibdb": "https://www.ibdb.com/broadway-production/the-liar-2146",
+    "music": "John Mundy",
+    "lyrics": "Edward Eager",
+    "book": "Alfred Drake and Edward Eager",
+    "ovtr": "https://ovrtur.com/show/123252",
+    "wiki": "https://en.wikipedia.org/wiki/The_Liar_(musical)",
+    "recording": null,
+    "cover": "https://assets.playbill.com/playbill-covers/c5c25ca988548dedbe2476c11fc04ccb-The-Liar-Playbill-05-50.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "Call Me Madam",
+    "opening": 1950,
+    "ibdb": "https://www.ibdb.com/broadway-production/call-me-madam-1871",
+    "music": "Irving Berlin",
+    "lyrics": "Irving Berlin",
+    "book": "Howard Lindsay and Russel Crouse",
+    "ovtr": "https://ovrtur.com/show/119156",
+    "wiki": "https://en.wikipedia.org/wiki/Call_Me_Madam",
+    "recording": "https://open.spotify.com/album/5sqze5Mh00RrTEp1gasM1u",
+    "cover": "https://assets.playbill.com/playbill-covers/4df1ff70d000a3370a458234dbb24a69-call-me-madam-playbill-1951-06-web.jpg",
+    "opinions": {
+      "favsong": "Can You Use Any Money Today?",
+      "review": "This is the first recording that's made me laugh during this entire challenge. I'm not a big Irving Berlin fan, but I was pleasantly surprised by the music and lyrics. The book is interesting enough for me. The synopsis was short, so I want to explore the book more, but for now I'll go on thinking it's decent.",
+      "rating": "B"
+    }
+  },
+  {
+    "title": "Guys and Dolls",
+    "opening": 1950,
+    "ibdb": "https://www.ibdb.com/broadway-production/guys-and-dolls-1892",
+    "music": "Frank Loesser",
+    "lyrics": "Frank Loesser",
+    "book": "Abe Burrows and Jo Swerling",
+    "ovtr": "https://ovrtur.com/show/119747",
+    "wiki": "https://en.wikipedia.org/wiki/Guys_and_Dolls",
+    "recording": "https://www.youtube.com/playlist?list=PLcvFO4lyuy_tXMWXXlX63T4H62cqlRfiZ",
+    "cover": "https://assets.playbill.com/playbill-covers/12ebf4dfa8a5ff77639aa26818dbdd56-guys-and-dolls-playbill-1950-11-24-web.jpg",
+    "opinions": {
+      "favsong": "TODO",
+      "review": "TODO",
+      "rating": "TODO"
+    }
+  },
+  {
+    "title": "Out of This World",
+    "opening": 1950,
+    "ibdb": "https://www.ibdb.com/broadway-production/out-of-this-world-1898",
+    "music": "Cole Porter",
+    "lyrics": "Cole Porter",
+    "book": "Dwight Taylor and Reginald Lawrence",
+    "ovtr": "https://ovrtur.com/show/120562",
+    "wiki": "https://en.wikipedia.org/wiki/Out_of_This_World_(musical)",
+    "recording": "https://open.spotify.com/album/5XaCug531Bjw4e0nUBhazb",
+    "cover": "https://assets.playbill.com/playbill-covers/14dc6041223aa93cd3d39c5a83dbde4a-Out-of-this-World-Playbill-12-50.jpg",
+    "opinions": {
+      "favsong": "TODO",
+      "review": "TODO",
+      "rating": "TODO"
+    }
+  },
+  {
+    "title": "Jotham Valley",
+    "opening": 1951,
+    "ibdb": "https://www.ibdb.com/broadway-production/jotham-valley-391960",
+    "music": "Cecil Broadhurst, Frances Hadden and Will Reed",
+    "lyrics": "Cecil Broadhurst",
+    "book": "Cecil Broadhurst",
+    "ovtr": null,
+    "wiki": "",
+    "recording": "",
+    "cover": "https://assets.playbill.com/site/pb.Listing.Placeholder.BROADWAY.V4.jpg",
+    "opinions": {
+      "favsong": null,
+      "review": null,
+      "rating": "L"
+    }
+  },
+  {
+    "title": "The King and I",
+    "opening": 1951,
+    "ibdb": "https://www.ibdb.com/broadway-production/the-king-and-i-1935",
+    "music": "Richard Rodgers",
+    "lyrics": "Oscar Hammerstein II",
+    "book": "Oscar Hammerstein II",
+    "ovtr": "https://ovrtur.com/show/120045",
+    "wiki": "https://en.wikipedia.org/wiki/The_King_and_I",
+    "recording": "https://www.youtube.com/playlist?list=PLfZbFAKZqxQnn5Zt3wrtVW3vN1Bov6IFp",
+    "cover": "https://assets.playbill.com/playbill-covers/0b384c96ba52d2272276e97923e1d558-the-king-and-i-playbill-1951-03-web.jpg",
+    "opinions": {
+      "favsong": "TODO",
+      "review": "TODO",
+      "rating": "TODO"
+    }
+  },
+  {
+    "title": "Make a Wish",
+    "opening": 1951,
+    "ibdb": "https://www.ibdb.com/broadway-production/make-a-wish-1939",
+    "music": "Hugh Martin",
+    "lyrics": "Hugh Martin",
+    "book": "Preston Sturges",
+    "ovtr": "https://ovrtur.com/show/120231",
+    "wiki": "https://en.wikipedia.org/wiki/Make_a_Wish_(musical)",
+    "recording": "https://open.spotify.com/album/25jv1EJNT9JwOpcTVRNnhn",
+    "cover": "https://assets.playbill.com/playbill-covers/33d99784e6d47098ddb359fce626c3cd-Make-a-Wish-Playbill-04-51.jpg",
+    "opinions": {
+      "favsong": "TODO",
+      "review": "TODO",
+      "rating": "TODO"
+    }
+  },
+  {
+    "title": "A Tree Grows in Brooklyn",
+    "opening": 1951,
+    "ibdb": "https://www.ibdb.com/broadway-production/a-tree-grows-in-brooklyn-1940",
+    "music": "Arthur Schwartz",
+    "lyrics": "Dorothy Fields",
+    "book": "Betty Smith and George Abbott",
+    "ovtr": "https://ovrtur.com/show/121229",
+    "wiki": "https://en.wikipedia.org/wiki/A_Tree_Grows_in_Brooklyn_(musical)",
+    "recording": "https://open.spotify.com/album/593IAEqHqEP9APL26OQhMR",
+    "cover": "https://assets.playbill.com/playbill-covers/c7f156ab81a3e63d8f77d40a96cd54b0-a-tree-grows-in-brooklyn-playbill-1951-06-web.jpg",
+    "opinions": {
+      "favsong": "TODO",
+      "review": "TODO",
+      "rating": "TODO"
+    }
+  },
+  {
+    "title": "Flahooley",
+    "opening": 1951,
+    "ibdb": "https://www.ibdb.com/broadway-production/flahooley-1947",
+    "music": "Sammy Fain",
+    "lyrics": "E.Y. Harburg",
+    "book": "E.Y. Harburg and Fred Saidy",
+    "ovtr": "https://ovrtur.com/show/119540",
+    "wiki": "https://en.wikipedia.org/wiki/Flahooley",
+    "recording": "https://www.youtube.com/playlist?list=OLAK5uy_nZaX9RwQmMLUYz_dJDpNL7zdpieJX9og4",
+    "cover": "https://assets.playbill.com/playbill-covers/f0de25f42d9266f121f00cf920f51503-flahooley-playbill-1951-05-web.jpg",
+    "opinions": {
+      "favsong": "TODO",
+      "review": "TODO",
+      "rating": "TODO"
     }
   }
 ]
